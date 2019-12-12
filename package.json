@@ -1,0 +1,33 @@
+{
+  "name": "generate-ui",
+  "version": "1.0.6",
+  "description": "generate template ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "generate"
+  ],
+  "author": "wuwenzhou",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fodelf/generateTemplate.git"
+  },
+  "dependencies": {
+    "@akryum/winattr": "^3.0.0",
+    "body-parse": "^0.1.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "fs-extra": "^8.1.0",
+    "http-proxy-middleware": "^0.20.0",
+    "lodash": "^4.17.15",
+    "lru-cache": "^5.1.1",
+    "opn": "^6.0.0",
+    "prettier": "^1.19.1",
+    "prettier-tslint": "^0.4.2",
+    "typescript": "^3.7.2"
+  },
+  "devDependencies": {}
+}
