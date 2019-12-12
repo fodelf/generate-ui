@@ -50,7 +50,7 @@ web https://github.com/fodelf/generateTemplate
 npm install  generate-ui --save-dev
 ```
 
-### add generate JS 
+## Add generate JS 
 
 ```
 var liveServer = require("generate-ui");
@@ -66,7 +66,7 @@ var params = {
 };
 liveServer.start(params);
 ```
-### start
+## Start
 
 ```
 node generate.js
@@ -74,7 +74,7 @@ node generate.js
 or npm  run  generate
 
 ```
-### Thanks
+## Thanks
 ```
 https://github.com/vuejs/vue-cli
 
